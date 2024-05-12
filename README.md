@@ -1,4 +1,4 @@
-citibike-marketing-analytics
+#citibike-marketing-analytics
 Introduction
 The Citibike Marketing Analysis project aimed to enhance revenue and customer satisfaction for Citibike through a meticulously crafted marketing plan. Utilizing over 10GB of public data from Citibike's website, the project employed temporal sampling to manage the dataset efficiently, maintaining its distribution while reducing its size. To boost revenue, the analysis identified potential new station locations in NYC/NJ by analyzing customer segments and pinpointing areas with similar characteristics to high-performing segments. To increase customer satisfaction, a rebalancing strategy for existing stations was developed, using the PageRank algorithm to determine central stations within the network for optimal bike availability. This strategic approach combined data analysis with actionable marketing tactics to address the project's objectives.
 
