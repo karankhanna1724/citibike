@@ -1,4 +1,4 @@
-# citibike-marketing-analytics 🚲
+![1200px-Citi_Bike_logo svg](https://github.com/karankhanna1724/citibike/assets/168464513/9f82dba6-3066-448e-933f-b1cfa6413b8f)
 
 ## Introduction
 
