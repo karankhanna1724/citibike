@@ -23,4 +23,4 @@ https://citibikenyc.com/system-data/operating-reports: Maintainence and Repair C
 https://www.nyc.gov/site/buildings/index.page: Permit fees and Requirements
 https://ride.citibikenyc.com/blog/major-citi-bike-expansion-map-revealed: Simmilar Projects on Expansions
 
-### Important Note: In this repository, I have not included all the separate .csv data files for each month. The link mentioned in the dataset source can be used to access all the data files. However, the final data on which the analysis was performed (final_data_cleaned.csv) is provided.
+**Important Note:** In this repository, I have not included all the separate .csv data files for each month. The link mentioned in the dataset source can be used to access all the data files. However, the final data on which the analysis was performed (final_data_cleaned.csv) is provided.
